@@ -292,7 +292,7 @@ export default (() => {
 					</Text>
 					<Text margin="0px 0px 0px 0px" font="normal 300 16px/1.5 --fontFamily-googleKanit" color="#b2bac1">
 						<Link href="https://team.nitrogen.kr">
-							durl
+							여기
 						</Link>
 						{" "}에 방문해서 조건과 신청서릃 확인하실 수 있습니다.
 					</Text>
@@ -303,7 +303,7 @@ export default (() => {
 					</Text>
 					<Text margin="0px 0px 0px 0px" font="normal 300 16px/1.5 --fontFamily-googleKanit" color="#b2bac1">
 						<Link href="https://donate.nitrogen.kr">
-							durl
+							여기
 						</Link>
 						{" "}에 방문하여 후원 방법과 혜택을 확인하실 수 있습니다.
 					</Text>
