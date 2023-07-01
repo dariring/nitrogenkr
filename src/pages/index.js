@@ -10,10 +10,10 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				NitrogenMC
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
+			<meta name={"description"} content={"NitrogenMC S4"} />
+			<link rel={"shortcut icon"} href={"https://cdn.discordapp.com/attachments/683169257017573444/1124834340426240070/nitrogen32.ico"} type={"image/x-icon"} />
 		</Helmet>
 		<Section
 			background="radial-gradient(75% 75% at 52.09% 50%,rgba(4, 8, 12, 0.4) 0%,#04080C 100%),url(https://uploads.quarkly.io/649820fc477c3a0019b3f1d6/images/bg04.png?v=2023-06-25T11:17:48.186Z) center center/cover no-repeat"
@@ -652,28 +652,6 @@ export default (() => {
 				</Box>
 			</Box>
 		</Section>
-		<Link
-			font={"--capture"}
-			font-size={"10px"}
-			position={"fixed"}
-			bottom={"12px"}
-			right={"12px"}
-			z-index={"4"}
-			border-radius={"4px"}
-			padding={"5px 12px 4px"}
-			background-color={"--dark"}
-			opacity={"0.6"}
-			hover-opacity={"1"}
-			color={"--light"}
-			cursor={"pointer"}
-			transition={"--opacityOut"}
-			quarkly-title={"Badge"}
-			text-decoration-line={"initial"}
-			href={"https://quarkly.io/"}
-			target={"_blank"}
-		>
-			Made on Quarkly
-		</Link>
 		<RawHtml>
 			<style place={"endOfHead"} rawKey={"649820fc477c3a0019b3f1d4"}>
 				{":root {\n  box-sizing: border-box;\n}\n\n* {\n  box-sizing: inherit;\n}"}
