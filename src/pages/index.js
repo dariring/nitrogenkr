@@ -294,7 +294,7 @@ export default (() => {
 						<Link href="https://team.nitrogen.kr">
 							여기
 						</Link>
-						{" "}에 방문해서 조건과 신청서릃 확인하실 수 있습니다.
+						{" "}에 방문해서 조건과 신청서를 확인하실 수 있습니다.
 					</Text>
 				</Box>
 				<Box min-width="100px" min-height="100px">
