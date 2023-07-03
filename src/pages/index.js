@@ -204,7 +204,7 @@ export default (() => {
 				자주 묻는 질문
 			</Text>
 			<Text margin="0px 0px 70px 0px" font="normal 300 20px/1.5 --fontFamily-googleKanit" color="#b2bac1" sm-margin="0px 0px 50px 0px">
-				디스코드 서버에 참가하여 더욱 다양한 방법을 찾아볼 수 있습니다.
+				디스코드 서버에 참가하여 더욱 다양한 질문들을 찾아볼 수 있습니다.
 			</Text>
 			<Box
 				min-width="100px"
