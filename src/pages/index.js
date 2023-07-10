@@ -634,7 +634,7 @@ export default (() => {
 						sm-padding="0 0 0 0"
 						sm-margin="0px 12px 0px 0px"
 					>
-						개인 정보 정책
+						개인정보처리방침
 					</Link>
 					<Link
 						padding="0 0 0 0"
