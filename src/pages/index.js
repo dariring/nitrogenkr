@@ -10,9 +10,9 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				NitrogenMC
+				Nitrogen
 			</title>
-			<meta name={"description"} content={"NitrogenMC S4"} />
+			<meta name={"description"} content={"Nitrogen"} />
 			<link rel={"shortcut icon"} href={"https://cdn.discordapp.com/attachments/683169257017573444/1124834340426240070/nitrogen32.ico"} type={"image/x-icon"} />
 		</Helmet>
 		<Section
@@ -48,7 +48,7 @@ export default (() => {
 					sm-margin="0px 0px 12px 0px"
 					letter-spacing="2px"
 				>
-					N I T R O G E N K R
+					C O O K I E P L
 				</Text>
 			</Box>
 			<Box
@@ -88,7 +88,7 @@ export default (() => {
 					width="30%"
 					lg-width="100%"
 				>
-					Team. Nitrogen의 3번째 프로젝트 서버.
+					Team. 쿠키와플의 2번째 프로젝트 서버.
 				</Text>
 			</Box>
 		</Section>
@@ -134,19 +134,19 @@ export default (() => {
 			</Box>
 			<Box min-width="100px" min-height="100px" border-color="#ffffff">
 				<Text margin="0px 0px 10px 0px" font="normal 400 18px/1.5 --fontFamily-googleKanit" color="#ffffff">
-					서버 소개
+					약탈 야생
 				</Text>
 				<Text margin="0px 0px 30px 0px" font="normal 400 42px/1.2 --fontFamily-googleBlackHanSans" color="#ffffff">
-					NitrogenMC
+					Nitrogen.
 				</Text>
 				<Text margin="0px 0px 25px 0px" font="normal 300 16px/1.5 --fontFamily-googleKanit" color="#d3d3d3">
-					NitrogenMC는 2020년부터 활동 중인 Team. Nitrogen에서 개발, 운영을 하고 있는 서버입니다.{" "}
+					Nitrogen은 Team. 쿠키와플에서 새로 리뉴얼되어 개발, 운영을 하고 있는 서버입니다.{" "}
 				</Text>
 				<Text margin="0px 0px 25px 0px" font="1em --fontFamily-googleKanit" color="#d3d3d3">
-					NitrogenMC의 대표 서버인 약탈 서버는 고성능 단독서버를 사용하고 서버가 국내에 위치해있어 국내 기준 빠른 15ms 핑을 유지하여 쾌적한 플레이를 제공합니다. 또한 X-Ray를 허용하고 있어 빠른 아이템 획득이 가능합니다. 수많은 이코노미 시스템으로 기존 야생보다 더욱 재미있게 플레이 할 수 있습니다!
+					고성능 단독서버를 사용하고 서버가 국내에 위치해있어 국내 기준 빠른 15ms 핑을 유지하여 쾌적한 플레이를 제공합니다. 또한 X-Ray를 허용하고 있어 빠른 아이템 획득이 가능합니다. 수많은 이코노미 시스템으로 기존 야생보다 더욱 재미있게 플레이 할 수 있습니다!
 				</Text>
 				<Text margin="0px 0px 35px 0px" font="1em --fontFamily-googleKanit" color="#d3d3d3">
-					NitrogenPvP는 최신버전은 물론, 1.8 하위 버전까지 지원하는 PvP 서버입니다. 다양한 게임모드들이 준비되어 있으며, 경쟁전, 미니게임, 1v1 등 추가로 재밌는 모드도 서버에 있답니다.
+					예쁘고 아름다운 새 Nitrogen 디자인 매력에 빠져보세요.
 				</Text>
 				<Box
 					min-width="100px"
@@ -174,7 +174,7 @@ export default (() => {
 							디스코드 인원
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
-							440+
+							360+
 						</Text>
 					</Box>
 					<Box min-width="100px" min-height="100px" color="#ffffff">
@@ -182,7 +182,7 @@ export default (() => {
 							운영 기간
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
-							10M+
+							오늘 오픈
 						</Text>
 					</Box>
 					<Box min-width="100px" min-height="100px" color="#ffffff">
@@ -190,7 +190,69 @@ export default (() => {
 							서버 개발자
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
-							2
+							Only 1
+						</Text>
+					</Box>
+			</Box>
+			<Box min-width="100px" min-height="100px" border-color="#ffffff">
+				<Text margin="0px 0px 10px 0px" font="normal 400 18px/1.5 --fontFamily-googleKanit" color="#ffffff">
+					약탈 야생
+				</Text>
+				<Text margin="0px 0px 30px 0px" font="normal 400 42px/1.2 --fontFamily-googleBlackHanSans" color="#ffffff">
+					Nitrogen.
+				</Text>
+				<Text margin="0px 0px 25px 0px" font="normal 300 16px/1.5 --fontFamily-googleKanit" color="#d3d3d3">
+					Nitrogen은 Team. 쿠키와플에서 새로 리뉴얼되어 개발, 운영을 하고 있는 서버입니다.{" "}
+				</Text>
+				<Text margin="0px 0px 25px 0px" font="1em --fontFamily-googleKanit" color="#d3d3d3">
+					고성능 단독서버를 사용하고 서버가 국내에 위치해있어 국내 기준 빠른 15ms 핑을 유지하여 쾌적한 플레이를 제공합니다. 또한 X-Ray를 허용하고 있어 빠른 아이템 획득이 가능합니다. 수많은 이코노미 시스템으로 기존 야생보다 더욱 재미있게 플레이 할 수 있습니다!
+				</Text>
+				<Text margin="0px 0px 35px 0px" font="1em --fontFamily-googleKanit" color="#d3d3d3">
+					예쁘고 아름다운 새 Nitrogen 디자인 매력에 빠져보세요.
+				</Text>
+				<Box
+					min-width="100px"
+					min-height="100px"
+					display="grid"
+					grid-template-columns="repeat(4, 1fr)"
+					grid-gap="16px 16px"
+					padding="15px 0px 0px 0px"
+					border-width="1px 0 0 0"
+					border-style="solid"
+					border-color="--color-lightD2"
+					margin="0px 0px 30px 0px"
+					sm-grid-template-columns="repeat(2, 1fr)"
+				>
+					<Box min-width="100px" min-height="100px" color="#ffffff">
+						<Text margin="0px 0px 15px 0px" font="normal 400 16px/1.5 --fontFamily-googleKanit">
+							누적 접속자
+						</Text>
+						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
+							12270+
+						</Text>
+					</Box>
+					<Box min-width="100px" min-height="100px" color="#ffffff">
+						<Text margin="0px 0px 15px 0px" font="normal 400 16px/1.5 --fontFamily-googleKanit">
+							디스코드 인원
+						</Text>
+						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
+							360+
+						</Text>
+					</Box>
+					<Box min-width="100px" min-height="100px" color="#ffffff">
+						<Text margin="0px 0px 15px 0px" font="normal 400 16px/1.5 --fontFamily-googleKanit">
+							운영 기간
+						</Text>
+						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
+							오늘 오픈
+						</Text>
+					</Box>
+					<Box min-width="100px" min-height="100px" color="#ffffff">
+						<Text margin="0px 0px 15px 0px" font="normal 400 16px/1.5 --fontFamily-googleKanit">
+							서버 개발자
+						</Text>
+						<Text margin="0px 0px 0px 0px" font="normal 600 36px/1.2 --fontFamily-googleKanit">
+							Only 1
 						</Text>
 					</Box>
 				</Box>
